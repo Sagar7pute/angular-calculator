@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+     font-size: 62.5%;
+     box-sizing: border-box;
+     }
+    
+     *, *::before, *::after {
+     margin: 0;
+    padding: 0;
+     box-sizing: inherit;
+     background: url(./assets/pexels-mubaz-basheer-916017.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+     background-size: 100%;
+     }
+    
